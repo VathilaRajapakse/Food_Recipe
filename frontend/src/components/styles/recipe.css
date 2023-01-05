@@ -1,0 +1,134 @@
+
+.recipe-form{
+    background: rgb(227, 202, 194);
+    width: 900px;
+    height: 450px;
+    margin: 50px auto;
+    max-width: 97%;
+    border-radius: 8px;
+    padding: 55px 30px;
+    margin-right: 200px;
+    margin-top: 75px;
+   
+  }
+
+.recipe-half{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+.recipe-item{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 24px;
+    width: 48%;
+  }
+  
+.recipe-label{
+    display: block;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3.5px;
+    margin-bottom: 16px;
+    color: rgb(0, 0, 0);
+  }
+  
+.recipe-half-item{
+    border-radius: 4px;
+    border: 1px solid rgb(255, 0, 0);
+    outline: 0;
+    padding: 16px;
+    width: 80%;
+    height: 44px;
+    background: transparent;
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+  } 
+
+  #invbtn{
+  margin-left: 1px;
+  margin-top: 30px;
+  color: rgb(255, 0, 0);
+  font-size: 15px;
+  padding: auto;
+  padding: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  width: 80px;
+}
+
+.invH2{
+    margin-top: 1px;
+  margin-bottom: 40px;
+  
+
+}
+.Mededitinv{
+  margin-left: 200px;
+}
+
+
+.create-form{
+    background: rgb(227, 202, 194);
+    width: 900px;
+    height: 450px;
+    margin: 50px auto;
+    max-width: 97%;
+    border-radius: 8px;
+    padding: 55px 30px;
+    margin-right: 200px;
+    margin-top: 75px;
+   
+  }
+
+.create-half{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+.create-item{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 24px;
+    width: 48%;
+  }
+  
+.create-label{
+    display: block;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3.5px;
+    margin-bottom: 16px;
+    color: rgb(0, 0, 0);
+  }
+  
+.create-half-item{
+    border-radius: 4px;
+    border: 1px solid rgb(255, 0, 0);
+    outline: 0;
+    padding: 16px;
+    width: 80%;
+    height: 44px;
+    background: transparent;
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+  } 
+
+#recbtn{
+    
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+  margin-left: 1px;
+  margin-top: 15px;
+  
+
+}
+
+#crcbtn{
+    margin-left: 1px;
+  margin-top: 15px;
+  padding: auto;
+}
+
